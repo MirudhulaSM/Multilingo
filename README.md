@@ -1,2 +1,20 @@
-# Multilingo
-Multilingo is a sophisticated, multi-modal AI translation and transliteration platform designed for seamless cross-lingual communication. It takes Text ,Audio ,and Video as input. It not only provides translation but also transliteration.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/f836f92a-b0f2-4ad8-886c-b9b829932273
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

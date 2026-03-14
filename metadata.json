@@ -1,0 +1,7 @@
+{
+  "name": "Multilingo",
+  "description": "A sophisticated, multi-modal AI Translator and Transliterator web application using the Gemini API. It supports text, audio, and image inputs for translation and transliteration tasks, with audio output and a history feature.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
